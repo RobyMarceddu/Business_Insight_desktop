@@ -13,7 +13,7 @@ A responsive stats preview card component featuring a vibrant CSS color overlay 
 
 <h2>Stats Preview Card Component</h2>
 
-This project is a solution to the "Stats preview card component" challenge from Frotend Mentor. It's a single-page component demonstrating a common landing page layout: a 50/50 split between text content and an image.
+This project is a solution to the "Stats preview card component" challenge from <a href="https://www.frontendmentor.io/">Frotend Mentor</a>. It's a single-page component demonstrating a common landing page layout: a 50/50 split between text content and an image.
 
 
 
