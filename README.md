@@ -6,7 +6,8 @@ A responsive stats preview card component featuring a vibrant CSS color overlay 
 
 
 
-<img width="959" height="470" alt="Screenshot 2025-11-13 102019" src="https://github.com/user-attachments/assets/a99e9625-7ee8-46eb-abd7-6fbf1b62723b" />
+
+<img width="959" height="470" alt="Screenshot 2025-11-13 102019" src="https://github.com/user-attachments/assets/bf822234-7bb3-4061-a47a-6776c4157180" />
 
 
 
